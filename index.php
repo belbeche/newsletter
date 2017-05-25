@@ -1,5 +1,6 @@
 <?php include ('header.php') ; ?>
 <?php require ('email.php') ;?>
+<?php require ('connexion.php');?>
 
 <div id="news">
 	<div id="titre">
