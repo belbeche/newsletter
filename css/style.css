@@ -1,0 +1,31 @@
+body {
+	background-color: silver;
+}
+
+#news div h1 {
+	text-align:center;
+}
+
+#titre {
+
+}
+
+#form {
+	text-align: center;
+}
+
+#news input {
+	width: 50%;
+	margin-left: 1%;
+	display: inline-block;
+}
+
+form #envoyer {
+	width: 30%;
+}
+
+.footer {
+	text-align: center;
+	z-index: 9999;
+	margin-top:100px;
+}
